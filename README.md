@@ -33,6 +33,16 @@ GOAL 16: Peace and Justice Strong Institutions
 GOAL 17: Partnerships to achieve the Goal
 
 ## Technical Approach
+
+- [ ] write a python script to get data for one SGD
+      - [python library to get world bank data] (https://pypi.org/project/world-bank-data/)
+- [ ] create a simple dashboard (Using R Shinyapps)
+- [ ] schedule the python script to run regularly
+      - shell script in unix
+      - run a python script every week
+
+
+
 Data Scraping and APIs
 Build data pipelines
 Make a simple dashboard to give summary statistics
