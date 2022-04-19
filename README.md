@@ -50,3 +50,11 @@ Make a simple dashboard to give summary statistics
 Potential Use:
 Crunching Big Data with MapReduce
 
+
+References:
+[Comparing data dashboarding tools and frameworks](https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila#:~:text=Streamlit%20is%20a%20dashboard%20tool,into%20full%2C%20interactive%20web%20applications.)
+[streamlit](https://streamlit.io/)
+
+#### Covid
+[Covid 19 dashboard] (https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
+[covid data by john hopkins](https://github.com/CSSEGISandData/COVID-19)
