@@ -37,8 +37,8 @@ One stop shop for SDG report in the form of a public dashboard
 
 - [ ] write a python script to get data for one SGD
       - [python library to get world bank data] (https://pypi.org/project/world-bank-data/)
-- [ ] create a simple dashboard (Using R Shinyapps)
-- [ ] schedule the python script to run regularly
+- [ ] create a simple dashboard (Using streamlit)
+- [ ] schedule the python script to run regularly and update the data automatically in the dashboard
       - shell script in unix
       - run a python script every week
 
