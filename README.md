@@ -16,6 +16,7 @@ One stop shop for SDG report in the form of a public dashboard
 ** The 17 sustainable development goals (SDGs) to transform our world: **
 - GOAL 1: No Poverty
  - [World bank poverty](https://pip.worldbank.org/home)
+ - [poverty indicators](https://datatopics.worldbank.org/world-development-indicators/themes/poverty-and-inequality.html)
 - GOAL 2: Zero Hunger
 - GOAL 3: Good Health and Well-being
 - GOAL 4: Quality Education
