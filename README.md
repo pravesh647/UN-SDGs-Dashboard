@@ -46,6 +46,9 @@ One stop shop for SDG report in the form of a public dashboard
 References:
 - [Comparing data dashboarding tools and frameworks](https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila#:~:text=Streamlit%20is%20a%20dashboard%20tool,into%20full%2C%20interactive%20web%20applications.)
 - [streamlit](https://streamlit.io/)
+- [Getting World Back data in python](https://www.youtube.com/watch?v=xE8NNizwaw8&ab_channel=HShrestha)
+- [Quantify World Hunger](https://www.fao.org/fao-stories/article/en/c/1201668/)
+- [app](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app)
 
 #### Covid
 - [Covid 19 dashboard] (https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
