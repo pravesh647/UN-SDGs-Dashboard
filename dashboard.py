@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import hunger_data
+import education_data
 
 st.title('UN SDGs Dashboard')
 st.markdown('The United Nations adopted the Sustainable Development Goals (SDGs), also known as the Global Goals, in 2015 as a universal call to action to end poverty, protect the environment, and ensure that by 2030, all people enjoy peace and prosperity.')
@@ -22,3 +23,17 @@ st.markdown('Prevalence under weight of 5 year olds is the next best measure bec
 st.subheader('World Food Production Index in 2019')
 st.bar_chart(hunger_data.metric4)
 st.markdown('The last indicator used is food production, which can be a good measurement of whether a country can feed its citizens. It may also be misleading because there may be propserous countries that import their food. Thus, we see little difference between developed countries and developing countries when it comes to food supply. This drives the message that even a country producing enough food supply still may not be able to feed itself and shows how much global supply chains are relied upon to feed the world. ')
+
+
+st.header('Quality Education')
+st.markdown('Quality education enables people to escape the cycle of poverty, reduces inequities, and achieves gender equality. It also enables people to live a healthier and more sustainable existence, and it is critical for the development of tolerance and peaceful society.')
+st.markdown('We used the following indicators to access the quality education data around the world:')
+st.subheader('Literacy rate of youth')
+st.bar_chart(education_data.metric1)
+st.markdown('The most important most direct measurement of quality education is the literacy rate of the youth. ')
+st.subheader('Secondary School Enrolment')
+st.bar_chart(education_data.metric2)
+st.markdown('The % of people who enrol in secondary school ensures that the population has received basic education.')
+st.subheader('CPIA gender equality rating')
+st.bar_chart(education_data.metric3)
+st.markdown('A country with low gender equality tend to have less opportunities for women to receive education so it is also a great secondary indicator')
